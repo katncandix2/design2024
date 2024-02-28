@@ -14,5 +14,4 @@ func TestGetInstance(t *testing.T) {
 			t.Error("error")
 		}
 	})
-
 }
